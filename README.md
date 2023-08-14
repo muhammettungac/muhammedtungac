@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Wissen Akademie.<br>🌱 I’m currently learning Front and Back-End Development.<br>💬 You can ask me about software<br>⚡ I cover songs in my spare time
+🔭 I’m currently working on a company.<br>🌱 I’m currently learning Front and Back-End Development.<br>💬 You can ask me about software<br>⚡ I cover songs in my spare time
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_tungac_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammettungac) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC2r6oTWw4Rbv_XSemguFffg) 
